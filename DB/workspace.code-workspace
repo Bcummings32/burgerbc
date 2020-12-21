@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\onedrive\\desktop\\burger"
+		},
+		{
+			"path": "..\\node_modules"
+		},
+		{
+			"path": "..\\public"
+		},
+		{
+			"path": "..\\views"
+		},
+		{
+			"path": "..\\models"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\controllers"
+		},
+		{
+			"path": "..\\config"
+		}
+	],
+	"settings": {}
+}
