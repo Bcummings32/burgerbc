@@ -1,5 +1,4 @@
 var orm = require("../config/orm.js");
-
 var burger = {
   all: function(cb) {
     orm.all("burgers", function(res) {
@@ -20,5 +19,9 @@ var burger = {
     }, condition, cb);
   }
 };
-
 module.exports = burger;
+
+
+
+
+
